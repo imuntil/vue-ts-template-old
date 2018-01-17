@@ -1,5 +1,5 @@
 {
-  "name": "vue-ts",
+  "name": "{{projectName}}",
   "version": "1.0.0",
   "description": "A Vue.js template with typescript",
   "author": "imuntil <imuntil@qq.com>",
